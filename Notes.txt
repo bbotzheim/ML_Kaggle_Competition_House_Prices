@@ -1,0 +1,6 @@
+Feedback from instructors:
+
+ - More feature engineering to find better predictive variables and diagnostics of should have been more impactful (sq ft)
+ - Style of the houses should have been more dominant in the feature importances
+ - CRISP-DM process
+ - Always research the industry you are building models for. Find out what's important and gain some context,
